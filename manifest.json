@@ -1,0 +1,26 @@
+
+{
+  "short_name": "CRIE Portal",
+  "name": "CRIE Portal Ecosystem",
+  "description": "App oficial do CRIE Portal para cristãos empreendedores.",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0F0F0F",
+  "background_color": "#0F0F0F",
+  "scope": "/"
+}
